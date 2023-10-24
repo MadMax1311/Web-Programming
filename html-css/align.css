@@ -1,0 +1,47 @@
+p{
+    text-align: right;
+}
+p{
+    text-align: left;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: red wavy line-through;
+}
+a{
+    text-decoration: none;
+}
+#h1{
+    font-weight: normal;
+    font-size: 50px;
+}
+#h2{
+    font-weight: bolder;
+    font-size: 10px;
+}
+#p1{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+#p2{
+    font-family: cursive, Tahoma, Geneva, Verdana, sans-serif;
+}
+div{
+    height: 100px;
+    background-color: red;
+    width: 50px;
+}
+div{
+   border-width: 2px;
+    border-style: dotted;
+    border-color: black;
+    border-radius: 10px;
+    padding-left: 28px;
+    padding-top: 28px ;
+    margin-top: 100px;
+}
