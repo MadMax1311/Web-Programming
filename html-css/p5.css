@@ -1,0 +1,14 @@
+div{
+    text-transform: capitalize;
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("iphone.jpg");
+    background-size: cover;
+    color: white;
+    position: fixed;
+    right: 0px;
+    top: 50px;
+    
+}
