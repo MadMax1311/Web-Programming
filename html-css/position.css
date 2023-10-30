@@ -1,0 +1,38 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: 2px dotted black;
+    display: inline-block;
+}
+#box1{
+    position: static;
+}
+#box2{
+    position: relative;
+    bottom: 1000px;
+    left: 500px;
+}
+#box3{
+    position: absolute;
+    top: 700px;
+}
+#box4{
+     position: fixed;
+     height: 35px;
+     width: 1510px;
+     right: 10px;
+     top: 0px ;
+     z-index: 5;
+   
+}
+#box5{
+    position: sticky;
+    top: 0;
+    left: 500px;
+}
+
+body{
+    background-image: url("madmax wallper.jpg");
+    background-size: contain;
+}
